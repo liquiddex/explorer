@@ -1,7 +1,7 @@
 {
     "chain_name": "liquid-devnet",
-    "api": ["https://api.liquid-devnet.network.umee.cc:443"],
-    "rpc": ["https://rpc.liquid-devnet.network.umee.cc:443"],
+    "api": [ "https://api.liquid-devnet.network.umee.cc:443" ],
+    "rpc": [ "https://rpc.liquid-devnet.network.umee.cc:443" ],
     "snapshot_provider": "",
     "sdk_version": "0.46.2",
     "coin_type": "118",
