@@ -1,0 +1,17 @@
+{
+    "chain_name": "liquid-devnet",
+    "api": ["https://api.liquid-devnet.network.umee.cc:443"],
+    "rpc": ["https://rpc.liquid-devnet.network.umee.cc:443"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.2",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "addr_prefix": "liquid",
+    "logo": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/11/1431356167202/a6754204-026c-4770-a980-5b810ed89fd4-1360x2040.jpeg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5cac29f5eaffbca28bf3b4e3200350f1",
+    "assets": [{
+        "base": "uquid",
+        "symbol": "QUID",
+        "exponent": "6",
+        "logo": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/11/1431356167202/a6754204-026c-4770-a980-5b810ed89fd4-1360x2040.jpeg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5cac29f5eaffbca28bf3b4e3200350f1"
+    }]
+  }
